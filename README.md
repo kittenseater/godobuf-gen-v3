@@ -1,0 +1,1 @@
+# godobuf-gen-v3
